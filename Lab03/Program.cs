@@ -1,4 +1,11 @@
-﻿namespace Lab03
+﻿/*
+ * Student ID :1690704067
+ * Name       :Lap02
+ * Section    :129D
+ * No.        :
+ * Course     : GI113 Computer Programming (GI)
+ */
+namespace Lab03
 {
     internal class Program
     {
