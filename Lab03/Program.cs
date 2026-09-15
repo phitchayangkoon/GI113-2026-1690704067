@@ -1,6 +1,6 @@
 ﻿/*
  * Student ID :1690704067
- * Name       :Lap02
+ * Name       :Lap03
  * Section    :129D
  * No.        :
  * Course     : GI113 Computer Programming (GI)
