@@ -1,4 +1,4 @@
-﻿namespace Lab07
+
 ﻿/*
 * Student ID :1690704067
 * Name       :Lap07
