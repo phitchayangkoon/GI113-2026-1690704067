@@ -13,7 +13,7 @@ namespace Lab08
     {
         static void Main(string[] args)
         {
-            int[] numbers = { 12, 54 , 41 ,18 ,2 };
+            int[] numbers = { -5, -2, -9 };
 
             for (int i = 0; i < numbers.Length; i++)
             {
